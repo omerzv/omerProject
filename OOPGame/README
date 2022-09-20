@@ -1,0 +1,21 @@
+		
+		
+		Hey and welcome to my game
+		- to start the game- go to "src/manu/startmanu"
+		
+		
+		The goal of this game is to survive as long as you can.
+		If any of the enemy touching you, your health will get down.
+		You are the white player,and you can move with the arrows.
+		Pressing space will trigger a dodge and your player become gray,
+		in this state you dont get any damage for less then a second.
+		There are green apple that spawn around the screen,
+		only when you eat one the other will spawn.
+		Every apple you eat will rise your level,
+		every 10 levels you will get faster and more durable to touching.
+		There are also blue apples.
+		They are giving you the ability to eat enemy
+		and swpan only if there are more then 6 enemy.
+		This ability last only for a second
+		
+		
